@@ -1,2 +1,2 @@
 # Simon-Game
-The famous Simon Recreated using HTML,CSS,JS.
+The famous Simon Game recreated using HTML,CSS,JS.
